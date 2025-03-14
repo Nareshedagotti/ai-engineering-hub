@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+pymupdf
+Pillow
+google-generativeai
+langchain
+sqlalchemy
+faiss-cpu
+langchain-community
+sentence-transformers
+torch
+torch
+torchvision
+torchaudio
